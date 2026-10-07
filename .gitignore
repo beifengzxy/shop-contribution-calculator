@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.DS_Store
+~$*
+.~lock.*
+reports/*
+!reports/.gitkeep
+!reports/README.md
+
+# Paid delivery links and seller operation records
+archive-local/
+sales/爱发电/内部记录/
+全项目产物索引.json
+sales/爱发电/内部记录/自动交付回复-已填链接.txt
+sales/爱发电/内部记录/交付链接核验.json

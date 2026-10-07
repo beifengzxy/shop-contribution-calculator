@@ -1,0 +1,12 @@
+{
+  "prepared_on": "2026-10-04",
+  "case_source": "网店老板_v0.3模拟试填.zip",
+  "template_source": "单品利润测算样品包_v0.3修正版",
+  "fictional_case": true,
+  "files_sha256": {
+    "docs/两页使用说明.pdf": "926fc1ff371f7d018be589f6d7d4474067fb8fa42081c24c100208ba4b7834f8",
+    "examples/merchant-v0.3/填写结果.xlsx": "b1dafffaf3719dca47a2cefc8348315aa85c539367827864fa2921f266db47fb",
+    "examples/merchant-v0.3/独立虚构订单.csv": "baf032de8478570202223475329ce54bf3e13c628498f24d005f67724b300b8a",
+    "templates/单品利润与退货测算样品.xlsx": "b2c0221043c93f1056a27318f56a59af9e0a9b86c2dd4012d29bd0254a6d6680"
+  }
+}

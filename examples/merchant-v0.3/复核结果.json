@@ -1,0 +1,198 @@
+{
+  "checks": [
+    {
+      "check": "四页名称与顺序保留",
+      "pass": true
+    },
+    {
+      "check": "第1页所有公式保留",
+      "pass": true
+    },
+    {
+      "check": "第1页非输入内容保留",
+      "pass": true
+    },
+    {
+      "check": "第1页保护保留",
+      "pass": true
+    },
+    {
+      "check": "第1页黄色区解锁",
+      "pass": true
+    },
+    {
+      "check": "第1页没有保存公式错误",
+      "pass": true
+    },
+    {
+      "check": "第2页所有公式保留",
+      "pass": true
+    },
+    {
+      "check": "第2页非输入内容保留",
+      "pass": true
+    },
+    {
+      "check": "第2页保护保留",
+      "pass": true
+    },
+    {
+      "check": "第2页黄色区解锁",
+      "pass": true
+    },
+    {
+      "check": "第2页没有保存公式错误",
+      "pass": true
+    },
+    {
+      "check": "第3页所有公式保留",
+      "pass": true
+    },
+    {
+      "check": "第3页非输入内容保留",
+      "pass": true
+    },
+    {
+      "check": "第3页保护保留",
+      "pass": true
+    },
+    {
+      "check": "第3页黄色区解锁",
+      "pass": true
+    },
+    {
+      "check": "第3页没有保存公式错误",
+      "pass": true
+    },
+    {
+      "check": "第4页所有公式保留",
+      "pass": true
+    },
+    {
+      "check": "第4页非输入内容保留",
+      "pass": true
+    },
+    {
+      "check": "第4页保护保留",
+      "pass": true
+    },
+    {
+      "check": "第4页黄色区解锁",
+      "pass": true
+    },
+    {
+      "check": "第4页没有保存公式错误",
+      "pass": true
+    },
+    {
+      "check": "订单分类总数核对",
+      "pass": true
+    },
+    {
+      "check": "模型内分母核对",
+      "pass": true
+    },
+    {
+      "check": "回收成本核对",
+      "pass": true
+    },
+    {
+      "check": "广告总额核对",
+      "pass": true
+    },
+    {
+      "check": "归集整批贡献独立计算",
+      "pass": true
+    },
+    {
+      "check": "归集单均不提前舍入",
+      "pass": true
+    },
+    {
+      "check": "方案一比例为归集值",
+      "pass": true
+    },
+    {
+      "check": "方案一均值只复制数值",
+      "pass": true
+    },
+    {
+      "check": "CSV记录数对应归集总数",
+      "pass": true
+    },
+    {
+      "check": "CSV正常完成数量一致",
+      "pass": true
+    },
+    {
+      "check": "CSV正常完成全部费用与归集吻合",
+      "pass": true
+    },
+    {
+      "check": "CSV正常完成贡献列独立核对",
+      "pass": true
+    },
+    {
+      "check": "CSV退货数量一致",
+      "pass": true
+    },
+    {
+      "check": "CSV退货全部费用与归集吻合",
+      "pass": true
+    },
+    {
+      "check": "CSV退货贡献列独立核对",
+      "pass": true
+    },
+    {
+      "check": "CSV逐单账单独立总额吻合",
+      "pass": true
+    },
+    {
+      "check": "C方案正常贡献",
+      "pass": true
+    },
+    {
+      "check": "C方案退货贡献",
+      "pass": true
+    },
+    {
+      "check": "C方案单均贡献",
+      "pass": true
+    },
+    {
+      "check": "D方案正常贡献",
+      "pass": true
+    },
+    {
+      "check": "D方案退货贡献",
+      "pass": true
+    },
+    {
+      "check": "D方案单均贡献",
+      "pass": true
+    }
+  ],
+  "allPass": true,
+  "count": 43,
+  "batchContribution": "489.530000000000006",
+  "modelOrderCount": "21",
+  "cases": [
+    {
+      "name": "模拟保温杯\n500mL",
+      "normal": "34.27",
+      "returned": "-42.42",
+      "average": "23.31",
+      "rate": "0.14285714285714285",
+      "unroundedBatchFromInputs": "489.53"
+    },
+    {
+      "name": "模拟保温杯\n降5元",
+      "normal": "29.52",
+      "returned": "-42.37",
+      "average": "19.25",
+      "rate": "0.14285714285714285",
+      "unroundedBatchFromInputs": "404.18"
+    }
+  ]
+}
